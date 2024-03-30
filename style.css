@@ -35,3 +35,11 @@ body {
   display: flex;
   align-items: center;
 }
+.input-box {
+  width: 250px;
+  height: 40px;
+  border-radius: 40px;
+  border: none;
+  outline: none;
+  padding: 0 10px;
+}
