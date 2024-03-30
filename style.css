@@ -1,6 +1,7 @@
 : root {
   --primary-color: #192dff;
   --secondary-color: #034aff;
+  --third-color: #;
 }
 body {
   font-family: sans-serif;
@@ -13,14 +14,12 @@ body {
   justify-content: center;
   align-items: left;
   flex-direction: column;
-  background: #192dff;
   color: #fff;
   font-size: 20px;
   font-family: sans-serif;
-  text-align: left;
+  text-align: center;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .header,
 .but {
