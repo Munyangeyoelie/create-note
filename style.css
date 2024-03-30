@@ -30,5 +30,6 @@ body {
 }
 .but {
   background: #034aff;
-  width: coverage;
+  width: 250px;
+  border-radius: 20px;
 }
