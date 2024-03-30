@@ -36,10 +36,12 @@ body {
   align-items: center;
 }
 .input-box {
-  width: 250px;
-  height: 40px;
-  border-radius: 40px;
-  border: none;
-  outline: none;
-  padding: 0 10px;
+  position: relative;
+  width: 100%;
+  max-width: 250px;
+  min-height: 150px;
+  background: #fff;
+  color: #333;
+  padding: 20px;
+  margin: 20px;
 }
