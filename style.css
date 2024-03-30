@@ -2,3 +2,17 @@
   --primary-color: #192dff;
   --secondary-color: #034aff;
 }
+body {
+}
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--primary-color);
+  color: #fff;
+  font-size: 20px;
+  font-family: sans-serif;
+}
