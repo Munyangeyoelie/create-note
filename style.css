@@ -45,3 +45,10 @@ body {
   padding: 20px;
   margin: 20px;
 }
+.delete {
+  position: absolute;
+  width: 25px;
+  buttom: 15px;
+  right: 15px;
+  cursor: pointer;
+}
