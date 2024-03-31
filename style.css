@@ -46,14 +46,18 @@ body {
   margin: 10px;
 }
 .delete {
-  position: absolute;
+  /* position: absolute;
   /* display: flex;
   justify-content: buttom;
   align-items: center; */
 
-  flex-direction: column;
-  width: 25px;
+  /* flex-direction: column; */
+  /* width: 25px;
   buttom: 15px;
-  right: 15px;
+  right: 15px; */
+  position: absolute;
+  width: 25px;
+  bottom: 0;
+  right: 0;
   cursor: pointer;
 }
